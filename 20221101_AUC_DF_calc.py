@@ -60,7 +60,7 @@ my
 
 ### -----------------------------------------------------------------------------------------------------# 
 ### -----------------------------------------------------------------------------------------------------# 
-# ATTEMPT 1: Add For Loop -Does not work 
+# ATTEMPT 1: Add For Loop -
 
 def ck(product_):
 # def ck(product_, dt_period_):
@@ -98,7 +98,7 @@ def ck(product_):
       print(month_)
       
     #   return roc_auc
-      return temp
+  return temp
 
 
 # a_dte  = ck(product_ = "sales", dt_period_="2022-07-01")
